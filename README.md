@@ -9,6 +9,5 @@ Dependency: PwAuth (binary located in /usr/local/sbin/pwauth with setuid root fl
 PwAuth is available at http://code.google.com/p/pwauth/
 
 Copyright 2006 Nicholas J. Humfrey
-pwauth is available from http://www.unixpapa.com/pwauth/
 
 Licensed under the GNU General Public License, Version 3. A copy is included in this repository.
