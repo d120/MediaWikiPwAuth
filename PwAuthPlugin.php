@@ -276,7 +276,8 @@ class PwAuthPlugin extends AuthPlugin {
 	 * @access public
 	 */
 	function strict() {
-		# Only allow authentication from system database
+		# provide fallback mechanism: authenticate against MediaWiki-
+		# users if no matching system user exists
 		return false;
 	}
 	
